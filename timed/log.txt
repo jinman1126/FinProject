@@ -1,0 +1,23 @@
+2017-12-18 19:22:31.180282
+/query?function=STOCH&symbol=fail
+&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for fail
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=fail
+&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+error getting rsi data for fail
+ 
+Error creating week object for fail
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=AAPL
+&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for AAPL
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=AAPL
+&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+error getting rsi data for AAPL
+ 
+Error creating week object for AAPL
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=TSLA&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=TSLA&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT

@@ -21,7 +21,7 @@ log = open('log.txt','a')
 f = open('output.txt','w')
 f.write(str(datetime.now()))
 f.write('\n')
-f.write('=========================================')
+f.write('=========================================\n')
 f = open('output.txt','a')
 
 def email_send(file):
@@ -35,13 +35,11 @@ def email_send(file):
     from email.mime.text import MIMEText
     
     emailfrom = 'python.test.jmixv3@gmail.com'
-    pw = 'Tucker05'
-    emailaddress = str(emailto) #convert to string in case there is any weird stuff
-    
+    pw = 'Tucker05'    
 
     msg = MIMEMultipart() #define each part of our email
     msg["From"] = emailfrom
-    msg["To"] = emailaddress
+    msg["To"] = 'jeremy.inman13@gmail.com'
     msg["Subject"] = ' hourly update file'
     #msg["Subject"] = "Your Request for " + ticker
      
@@ -71,11 +69,12 @@ def email_send(file):
 def get_stoch(symbol): #get stochastic oscillator data
 
     try:
-        url='https://www.alphavantage.co/query?function='\
-        'STOCH&symbol='+str(symbol)+'&interval=15min&outputsize=compact&apikey='+key
-        log.write(url+'\n')
-        u         = requests.get(url)
+        print(symbol)
+        link ='https://www.alphavantage.co/query?function=STOCH&symbol='+str(symbol)+'&interval=15min&outputsize=compact&apikey='+key 
+        log.write(link+'\n')
+        u         = requests.get(link)
         data      = json.loads(u.text)
+        
         stochdata = data['Technical Analysis: STOCH']
         s_dataset = {}
         for element in data['Technical Analysis: STOCH']: #get the data from this section
@@ -87,6 +86,7 @@ def get_stoch(symbol): #get stochastic oscillator data
         #covnert to pandas dataframe
         stoch_df         = pd.DataFrame.from_dict(s_dataset,orient='index')
         stoch_df.columns = ['SlowK','SlowD']
+        print('got stoch')
         return(stoch_df.head(1))
     
     except Exception:
@@ -161,13 +161,14 @@ while True:
             objectlist.append(a)
             print(str(objectlist[-1]))
             f.write(str(objectlist[-1])+'\n')
+            
         except Exception:
             print('Error creating week object for %s'%symbol)
             log.write('Error creating week object for %s \n' %symbol)
             print()
             continue
                 
-    
+    f.close()
     print('finished processing',datetime.now())    
     print()
     print('sending file', datetime.now())
