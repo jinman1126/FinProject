@@ -18,12 +18,6 @@ log.write(str(datetime.now()))
 log.write('\n')
 log = open('log.txt','a')
 
-f = open('output.txt','w')
-f.write(str(datetime.now()))
-f.write('\n')
-f.write('=========================================\n')
-f = open('output.txt','a')
-
 def email_send(file):
     
     import smtplib #each of these are used to read different types of emails
@@ -40,7 +34,7 @@ def email_send(file):
     msg = MIMEMultipart() #define each part of our email
     msg["From"] = emailfrom
     msg["To"] = 'jeremy.inman13@gmail.com'
-    msg["Subject"] = ' hourly update file'
+    msg["Subject"] = str(datetime.now())
     #msg["Subject"] = "Your Request for " + ticker
      
         
@@ -70,7 +64,8 @@ def get_stoch(symbol): #get stochastic oscillator data
 
     try:
         print(symbol)
-        link ='https://www.alphavantage.co/query?function=STOCH&symbol='+str(symbol)+'&interval=15min&outputsize=compact&apikey='+key 
+        link ='https://www.alphavantage.co/query?function=STOCH&symbol='\
+        +str(symbol.strip()).lower()+'&interval=1min&outputsize=compact&apikey='+key 
         log.write(link+'\n')
         u         = requests.get(link)
         data      = json.loads(u.text)
@@ -96,8 +91,8 @@ def get_stoch(symbol): #get stochastic oscillator data
     
 def get_RSI(symbol):
     try:
-        url = 'https://www.alphavantage.co/query?function=RSI&symbol='+str(symbol)+\
-              '&interval=15min&time_period=10&series_type=close&apikey='+key
+        url = 'https://www.alphavantage.co/query?function=RSI&symbol='+str(symbol.strip()).lower()+\
+              '&interval=1min&time_period=10&series_type=close&apikey='+key
         log.write(url+'\n')
         u         = requests.get(url)
         data      = json.loads(u.text)
@@ -132,7 +127,11 @@ class ranking():
 
 while True:
     symbols = []
-    
+    f = open('output.txt','w')
+    f.write(str(datetime.now()))
+    f.write('\n')
+    f.write('=========================================\n')
+    f = open('output.txt','a')
     with open('symbols.txt','r') as s:
         for line in s.readlines():
             symbols.append(line)
@@ -174,7 +173,7 @@ while True:
     print('sending file', datetime.now())
     print()
     email_send('output.txt')
-    time.sleep(45*60)
+    time.sleep(15*60)
             
     
     

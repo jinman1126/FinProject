@@ -1,23 +1,1168 @@
-2017-12-18 19:22:31.180282
-/query?function=STOCH&symbol=fail
-&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
-error in stoch for fail
+2017-12-20 06:44:04.047157
+/query?function=STOCH&symbol=snn&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snn&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=gol&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=gol&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=aapl&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=aapl&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=tsla&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=tsla&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=msft&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=msft&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=nflx&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=nflx&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snap&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snap&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=glw&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=glw&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=twtr&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=twtr&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snn&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for snn
  
-https://www.alphavantage.co/query?function=RSI&symbol=fail
-&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
-error getting rsi data for fail
+https://www.alphavantage.co/query?function=RSI&symbol=snn&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+error getting rsi data for snn
  
-Error creating week object for fail
+Error creating week object for snn
  
-https://www.alphavantage.co/query?function=STOCH&symbol=AAPL
-&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
-error in stoch for AAPL
+https://www.alphavantage.co/query?function=STOCH&symbol=gol&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for gol
  
-https://www.alphavantage.co/query?function=RSI&symbol=AAPL
-&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
-error getting rsi data for AAPL
+https://www.alphavantage.co/query?function=RSI&symbol=gol&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+error getting rsi data for gol
  
-Error creating week object for AAPL
+Error creating week object for gol
  
-https://www.alphavantage.co/query?function=STOCH&symbol=TSLA&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
-https://www.alphavantage.co/query?function=RSI&symbol=TSLA&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=aapl&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for aapl
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=aapl&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+error getting rsi data for aapl
+ 
+Error creating week object for aapl
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=tsla&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=tsla&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=msft&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=msft&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=nflx&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=nflx&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snap&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snap&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=glw&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=glw&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=twtr&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=twtr&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snn&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snn&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=gol&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=gol&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=aapl&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=aapl&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=tsla&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=tsla&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=msft&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=msft&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=nflx&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for nflx
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=nflx&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+error getting rsi data for nflx
+ 
+Error creating week object for nflx
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=snap&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for snap
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=snap&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+error getting rsi data for snap
+ 
+Error creating week object for snap
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=glw&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for glw
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=glw&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+error getting rsi data for glw
+ 
+Error creating week object for glw
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=twtr&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for twtr
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=twtr&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+error getting rsi data for twtr
+ 
+Error creating week object for twtr
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=snn&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snn&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=gol&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=gol&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=aapl&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=aapl&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=tsla&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=tsla&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=msft&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=msft&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=nflx&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=nflx&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snap&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snap&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=glw&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=glw&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=twtr&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=twtr&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snn&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snn&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=gol&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=gol&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=aapl&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=aapl&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=tsla&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=sbux&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=sbux&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=swks&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for SWKS
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=swks&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+error getting rsi data for SWKS
+ 
+Error creating week object for SWKS
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=sbux&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for SBUX
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=sbux&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+Error creating week object for SBUX
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=swks&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for SWKS
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=swks&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+Error creating week object for SWKS
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=sbux&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=sbux&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=swks&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=swks&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=sbux&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=sbux&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=swks&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=swks&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=tsla&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=msft&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=msft&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=nflx&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=nflx&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snap&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snap&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=glw&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=glw&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=twtr&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=twtr&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snn&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for snn
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=snn&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+Error creating week object for snn
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=gol&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=gol&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=aapl&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=aapl&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=tsla&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=tsla&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=msft&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=msft&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=nflx&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=nflx&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snap&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snap&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=glw&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=glw&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=twtr&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=twtr&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snn&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snn&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=gol&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=gol&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=aapl&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=aapl&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=tsla&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=tsla&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=msft&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=msft&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=nflx&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=nflx&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snap&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snap&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=glw&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=glw&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=twtr&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=twtr&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snn&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snn&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=gol&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=gol&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=aapl&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=aapl&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=tsla&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=tsla&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=msft&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=msft&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=nflx&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=nflx&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snap&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snap&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=glw&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=glw&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=twtr&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=twtr&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snn&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snn&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=gol&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=gol&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=aapl&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=aapl&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=tsla&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=tsla&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=msft&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for msft
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=msft&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+error getting rsi data for msft
+ 
+Error creating week object for msft
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=nflx&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=nflx&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snap&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snap&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=glw&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=glw&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=twtr&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=twtr&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snn&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snn&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=gol&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=gol&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=aapl&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=aapl&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=tsla&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=tsla&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=msft&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for msft
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=msft&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+error getting rsi data for msft
+ 
+Error creating week object for msft
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=nflx&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for nflx
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=nflx&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+error getting rsi data for nflx
+ 
+Error creating week object for nflx
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=snap&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for snap
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=snap&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+error getting rsi data for snap
+ 
+Error creating week object for snap
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=glw&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=glw&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=twtr&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=twtr&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snn&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snn&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=gol&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=gol&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=aapl&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=aapl&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=tsla&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=tsla&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=msft&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=msft&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=nflx&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=nflx&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snap&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snap&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=glw&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=glw&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=twtr&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=twtr&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+error getting rsi data for twtr
+ 
+Error creating week object for twtr
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=snn&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snn&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=gol&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=gol&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=aapl&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=aapl&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=tsla&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=tsla&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=msft&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=msft&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=nflx&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=nflx&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snap&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snap&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=glw&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=glw&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=twtr&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=twtr&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snn&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for snn
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=snn&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+error getting rsi data for snn
+ 
+Error creating week object for snn
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=gol&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for gol
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=gol&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+error getting rsi data for gol
+ 
+Error creating week object for gol
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=aapl&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=aapl&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=tsla&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=tsla&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=msft&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=msft&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=nflx&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=nflx&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snap&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snap&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=glw&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=glw&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=twtr&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=twtr&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snn&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snn&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=gol&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for gol
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=gol&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+error getting rsi data for gol
+ 
+Error creating week object for gol
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=aapl&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for aapl
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=aapl&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+error getting rsi data for aapl
+ 
+Error creating week object for aapl
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=tsla&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for tsla
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=tsla&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+error getting rsi data for tsla
+ 
+Error creating week object for tsla
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=msft&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=msft&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=nflx&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=nflx&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snap&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snap&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=glw&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=glw&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=twtr&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=twtr&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snn&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for snn
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=snn&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+error getting rsi data for snn
+ 
+Error creating week object for snn
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=gol&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for gol
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=gol&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+error getting rsi data for gol
+ 
+Error creating week object for gol
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=aapl&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for aapl
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=aapl&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+error getting rsi data for aapl
+ 
+Error creating week object for aapl
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=tsla&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for tsla
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=tsla&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+Error creating week object for tsla
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=msft&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=msft&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=nflx&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=nflx&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snap&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snap&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=glw&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=glw&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=twtr&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=twtr&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snn&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snn&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=gol&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=gol&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=aapl&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=aapl&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=tsla&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for tsla
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=tsla&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+Error creating week object for tsla
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=msft&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=msft&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=nflx&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=nflx&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snap&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snap&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=glw&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=glw&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=twtr&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=twtr&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snn&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snn&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=gol&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for gol
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=gol&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+error getting rsi data for gol
+ 
+Error creating week object for gol
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=aapl&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for aapl
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=aapl&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+error getting rsi data for aapl
+ 
+Error creating week object for aapl
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=tsla&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for tsla
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=tsla&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+Error creating week object for tsla
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=msft&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=msft&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=nflx&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=nflx&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snap&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snap&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=glw&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=glw&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=twtr&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for twtr
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=twtr&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+error getting rsi data for twtr
+ 
+Error creating week object for twtr
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=snn&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snn&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=gol&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for gol
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=gol&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+error getting rsi data for gol
+ 
+Error creating week object for gol
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=aapl&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for aapl
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=aapl&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+Error creating week object for aapl
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=tsla&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=tsla&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=msft&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=msft&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=nflx&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=nflx&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snap&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snap&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=glw&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=glw&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=twtr&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=twtr&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snn&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snn&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=gol&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=gol&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=aapl&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=aapl&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=tsla&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=tsla&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=msft&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=msft&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=nflx&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=nflx&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snap&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snap&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=glw&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=glw&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=twtr&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=twtr&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snn&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snn&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=gol&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=gol&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=aapl&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=aapl&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=tsla&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=tsla&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=msft&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=msft&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=nflx&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=nflx&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snap&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snap&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=glw&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=glw&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=twtr&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=twtr&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snn&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snn&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=gol&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=gol&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=aapl&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=aapl&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=tsla&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=tsla&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=msft&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=msft&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=nflx&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=nflx&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snap&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snap&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=glw&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=glw&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=twtr&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=twtr&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snn&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snn&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=gol&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=gol&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=aapl&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=aapl&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=tsla&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=tsla&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=msft&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=msft&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=nflx&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=nflx&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snap&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snap&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=glw&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for glw
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=glw&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+error getting rsi data for glw
+ 
+Error creating week object for glw
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=twtr&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for twtr
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=twtr&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+error getting rsi data for twtr
+ 
+Error creating week object for twtr
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=snn&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for snn
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=snn&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+Error creating week object for snn
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=gol&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=gol&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=aapl&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=aapl&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=tsla&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for tsla
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=tsla&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+error getting rsi data for tsla
+ 
+Error creating week object for tsla
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=msft&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=msft&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=nflx&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for nflx
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=nflx&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+error getting rsi data for nflx
+ 
+Error creating week object for nflx
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=snap&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for snap
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=snap&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+error getting rsi data for snap
+ 
+Error creating week object for snap
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=glw&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for glw
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=glw&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+error getting rsi data for glw
+ 
+Error creating week object for glw
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=twtr&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for twtr
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=twtr&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+error getting rsi data for twtr
+ 
+Error creating week object for twtr
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=snn&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for snn
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=snn&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+error getting rsi data for snn
+ 
+Error creating week object for snn
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=gol&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for gol
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=gol&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+error getting rsi data for gol
+ 
+Error creating week object for gol
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=aapl&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=aapl&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=tsla&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=tsla&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=msft&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=msft&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=nflx&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for nflx
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=nflx&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+Error creating week object for nflx
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=snap&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snap&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=glw&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=glw&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=twtr&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=twtr&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snn&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snn&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=gol&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=gol&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=aapl&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=aapl&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=tsla&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=tsla&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=msft&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=msft&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=nflx&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for nflx
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=nflx&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+error getting rsi data for nflx
+ 
+Error creating week object for nflx
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=snap&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snap&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=glw&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=glw&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=twtr&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=twtr&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snn&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snn&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=gol&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=gol&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=aapl&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=aapl&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=tsla&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for tsla
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=tsla&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+error getting rsi data for tsla
+ 
+Error creating week object for tsla
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=msft&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for msft
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=msft&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+error getting rsi data for msft
+ 
+Error creating week object for msft
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=nflx&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for nflx
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=nflx&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+error getting rsi data for nflx
+ 
+Error creating week object for nflx
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=snap&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for snap
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=snap&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+error getting rsi data for snap
+ 
+Error creating week object for snap
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=glw&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=glw&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=twtr&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=twtr&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snn&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snn&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=gol&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=gol&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=aapl&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=aapl&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=tsla&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=tsla&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=msft&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=msft&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=nflx&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for nflx
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=nflx&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+error getting rsi data for nflx
+ 
+Error creating week object for nflx
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=snap&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for snap
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=snap&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+error getting rsi data for snap
+ 
+Error creating week object for snap
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=glw&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for glw
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=glw&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+error getting rsi data for glw
+ 
+Error creating week object for glw
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=twtr&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for twtr
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=twtr&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+error getting rsi data for twtr
+ 
+Error creating week object for twtr
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=snn&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snn&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=gol&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=gol&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=aapl&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=aapl&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=tsla&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=tsla&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=msft&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=msft&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=nflx&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=nflx&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snap&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snap&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=glw&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=glw&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=twtr&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=twtr&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snn&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for snn
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=snn&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+Error creating week object for snn
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=gol&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=gol&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=aapl&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=aapl&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=tsla&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=tsla&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=msft&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=msft&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=nflx&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=nflx&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snap&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snap&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=glw&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=glw&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=twtr&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=twtr&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snn&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snn&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=gol&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=gol&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=aapl&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=aapl&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=tsla&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=tsla&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=msft&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=msft&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=nflx&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=nflx&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snap&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snap&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=glw&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=glw&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=twtr&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=twtr&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snn&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snn&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=gol&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=gol&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=aapl&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=aapl&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=tsla&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=tsla&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=msft&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=msft&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=nflx&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for nflx
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=nflx&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+error getting rsi data for nflx
+ 
+Error creating week object for nflx
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=snap&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snap&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=glw&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=glw&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=twtr&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=twtr&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snn&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snn&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=gol&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=gol&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=aapl&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=aapl&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=tsla&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=tsla&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=msft&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=msft&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=nflx&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=nflx&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snap&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snap&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=glw&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=glw&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=twtr&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=twtr&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snn&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snn&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=gol&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=gol&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=aapl&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=aapl&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=tsla&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=tsla&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=msft&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=msft&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=nflx&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=nflx&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snap&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snap&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=glw&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for glw
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=glw&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+Error creating week object for glw
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=twtr&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=twtr&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snn&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snn&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=gol&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=gol&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=aapl&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=aapl&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=tsla&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=tsla&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=msft&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=msft&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=nflx&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=nflx&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snap&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snap&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=glw&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=glw&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=twtr&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=twtr&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snn&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snn&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=gol&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=gol&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=aapl&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=aapl&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=tsla&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=tsla&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=msft&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=msft&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=nflx&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=nflx&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snap&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snap&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=glw&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=glw&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=twtr&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=twtr&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snn&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snn&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=gol&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=gol&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=aapl&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=aapl&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=tsla&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=tsla&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=msft&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=msft&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=nflx&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=nflx&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snap&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snap&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=glw&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=glw&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=twtr&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=twtr&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snn&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snn&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=gol&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=gol&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=aapl&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=aapl&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=tsla&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=tsla&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=msft&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=msft&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=nflx&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=nflx&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snap&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snap&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=glw&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=glw&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=twtr&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=twtr&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snn&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snn&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=gol&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=gol&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=aapl&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=aapl&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=tsla&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=tsla&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=msft&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=msft&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=nflx&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=nflx&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snap&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snap&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=glw&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=glw&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=twtr&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=twtr&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snn&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snn&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=gol&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=gol&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=aapl&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=aapl&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=tsla&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=tsla&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=msft&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=msft&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=nflx&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=nflx&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snap&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snap&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=glw&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=glw&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=twtr&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=twtr&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snn&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snn&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=gol&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=gol&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=aapl&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=aapl&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=tsla&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=tsla&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=msft&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=msft&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=nflx&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=nflx&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snap&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snap&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=glw&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=glw&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=twtr&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=twtr&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snn&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snn&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=gol&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=gol&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=aapl&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=aapl&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=tsla&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=tsla&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=msft&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=msft&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=nflx&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=nflx&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snap&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snap&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=glw&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=glw&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=twtr&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=twtr&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snn&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+error in stoch for snn
+ 
+https://www.alphavantage.co/query?function=RSI&symbol=snn&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+Error creating week object for snn
+ 
+https://www.alphavantage.co/query?function=STOCH&symbol=gol&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=gol&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=aapl&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=aapl&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=tsla&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=tsla&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=msft&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=msft&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=nflx&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=nflx&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snap&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snap&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=glw&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=glw&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=twtr&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=twtr&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snn&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snn&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=gol&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=gol&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=aapl&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=aapl&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=tsla&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=tsla&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=msft&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=msft&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=nflx&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=nflx&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snap&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snap&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=glw&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=glw&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=twtr&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=twtr&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snn&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snn&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=gol&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=gol&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=aapl&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=aapl&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=tsla&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=tsla&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=msft&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=msft&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=nflx&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=nflx&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snap&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snap&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=glw&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=glw&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=twtr&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=twtr&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snn&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snn&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=gol&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=gol&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=aapl&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=aapl&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=tsla&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=tsla&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=msft&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=msft&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=nflx&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=nflx&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snap&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snap&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=glw&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=glw&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=twtr&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=twtr&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snn&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snn&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=gol&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=gol&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=aapl&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=aapl&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=tsla&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=tsla&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=msft&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=msft&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=nflx&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=nflx&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snap&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snap&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=glw&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=glw&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=twtr&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=twtr&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snn&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=snn&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=gol&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=gol&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=aapl&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=aapl&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=tsla&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=tsla&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=msft&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=msft&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=nflx&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=nflx&interval=15min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=STOCH&symbol=snap&interval=15min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT

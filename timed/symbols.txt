@@ -1,3 +1,9 @@
-fail
-AAPL
-TSLA
+snn
+gol
+aapl
+tsla
+msft
+nflx
+snap
+glw
+twtr

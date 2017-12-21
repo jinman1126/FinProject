@@ -22,6 +22,47 @@ f.write(str(datetime.now()))
 f.write('\n')
 f.write('=========================================')
 f = open('output.txt','a')
+def email_send(file):
+    
+    import smtplib #each of these are used to read different types of emails
+    import mimetypes #I send out excel, csv, png, and text
+    from email.mime.multipart import MIMEMultipart
+    from email import encoders
+    from email.mime.base import MIMEBase
+    from email.mime.image import MIMEImage
+    from email.mime.text import MIMEText
+    
+    emailfrom = 'python.test.jmixv3@gmail.com'
+    pw = 'Tucker05'    
+
+    msg = MIMEMultipart() #define each part of our email
+    msg["From"] = emailfrom
+    msg["To"] = 'jeremy.inman13@gmail.com'
+    msg["Subject"] = ' hourly update file'
+    #msg["Subject"] = "Your Request for " + ticker
+     
+        
+    #encoding the file types for text, image, and other
+    ctype, encoding = mimetypes.guess_type(file)
+    if ctype is None or encoding is not None:
+        ctype = "application/octet-stream"
+
+    maintype, subtype = ctype.split("/", 1)
+
+    if maintype == "text":
+        fp = open(file)
+        # Note: we should handle calculating the charset
+        attachment = MIMEText(fp.read(), _subtype=subtype)
+        fp.close()
+    msg.attach(attachment)
+    #server outbound port smtp 587
+    server = smtplib.SMTP("smtp.gmail.com:587")
+    server.starttls()
+    server.login(emailfrom,pw)
+    server.sendmail(emailfrom, 'jeremy.inman13@gmail.com', msg.as_string())
+    server.quit()
+    print('file sent',datetime.now())
+    print()
 def get_symbols():
     nasdaq = pd.read_csv("http://www.nasdaq.com/screening/companies-by-region.aspx?exchange=NASDAQ&render=download")
     nyse   = pd.read_csv("http://www.nasdaq.com/screening/companies-by-region.aspx?exchange=NYSE&render=download")
@@ -36,7 +77,7 @@ def get_stoch(symbol): #get stochastic oscillator data
 
     try:
         url='https://www.alphavantage.co/query?function='\
-        'STOCH&symbol='+str(symbol.strip()).lower()+'&interval=daily&outputsize=compact&apikey='+key
+        'STOCH&symbol='+str(symbol.strip()).lower()+'&interval=1min&outputsize=compact&apikey='+key
         log.write(url+'\n')
         u         = requests.get(url)
         data      = json.loads(u.text)
@@ -55,14 +96,16 @@ def get_stoch(symbol): #get stochastic oscillator data
     
     except Exception:
         log.write('error getting stoch data for %s \n' %symbol)
+        log.write(data)
+        log.write('\n\n')
         print('error in stoch for %s' %symbol) 
   
     
 def get_RSI(symbol):
     try:
         url = 'https://www.alphavantage.co/query?function=RSI&symbol='+str(symbol.strip()).lower()+\
-              '&interval=daily&time_period=10&series_type=close&apikey='+key
-        log.write(url+'\n')
+              '&interval=1min&time_period=10&series_type=close&apikey='+key
+        log.write(url+'\n\n')
         u         = requests.get(url)
         data      = json.loads(u.text)
         rsidata   = data['Technical Analysis: RSI']
@@ -79,6 +122,8 @@ def get_RSI(symbol):
     except Exception:
         log.write('error getting rsi data for %s \n' %symbol)
         print('error getting rsi data for %s' %symbol)
+        log.write(data)
+        log.write('\n\n')
         return None
     
            
@@ -120,6 +165,7 @@ for symbol in symbols:
         objectlist.append(a)
         print(str(objectlist[-1]))
         f.write(str(objectlist[-1])+'\n')
+        print()
     except Exception:
         print('Error creating week object for %s'%symbol)
         log.write('error creating week object for %s \n' %symbol)
@@ -129,7 +175,9 @@ for symbol in symbols:
 
 print('finished processing',datetime.now())    
 print()
-
+email_send('output.txt')
+print('email sent', datetime.now())
+print()
         
 
 
