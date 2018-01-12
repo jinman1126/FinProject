@@ -1,0 +1,5 @@
+2017-12-20 19:09:49.285643
+/query?function=STOCH&symbol=aep&interval=1min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
+https://www.alphavantage.co/query?function=RSI&symbol=aep&interval=1min&time_period=10&series_type=close&apikey=TJLL4VNF9L2C2CNT
+
+https://www.alphavantage.co/query?function=STOCH&symbol=vrtx&interval=1min&outputsize=compact&apikey=TJLL4VNF9L2C2CNT
